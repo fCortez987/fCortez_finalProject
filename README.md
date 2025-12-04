@@ -12,6 +12,7 @@ Assets:
 -Kenney.nl
     >Blaster Kit: https://kenney.nl/assets/blaster-kit
     >City Kit (Industrial): https://kenney.nl/assets/city-kit-industrial
+    >Nature Kit: https://kenney.nl/assets/nature-kit
 -ambientcg.com
     >Asphalt 031: https://ambientcg.com/a/Asphalt031
 
