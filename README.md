@@ -1,5 +1,24 @@
 # fCortez\_finalProject
 
+Controls:
+WASD: Move
+
+Mouse: aim
+
+F: Flashlight/Laser toggle
+
+Left Click: Shoot
+
+E: Interact (extraction button)
+
+R: Reload
+
+
+
+
+How To Play: Create your character by spending points and choosing one perk. You will spawn in a random level where you will shoot zombies and run away from them to survive. When the timer is up, you have to run to interact with the extraction button. You then have to wait a smaller ammount of time before following the arrow above your head to return to the button which will take you to the shop, where you can spend money to buy better weapons and upgrade your character. You then hit continue to go to a new level and repeat the process. You continue this cycle endlessly until you are killed by the zombies. 
+
+
 Tutorials used:
 
 1. How To Use The New Enhanced Input Action Mappings In Unreal Engine 5.1 (Tutorial) - https://www.youtube.com/watch?v=nXJuXUxQfa8
